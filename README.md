@@ -1,6 +1,1 @@
-# javascripts
-# haha
-# javascripts
-# javascripts
-# javascripts
-# javascripts
+Learning JavaScripts
